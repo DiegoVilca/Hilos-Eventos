@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pelotita", "Pelotita\Pelotita.csproj", "{F0579753-4BF1-486D-867F-931238A056CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pelotita_Sin_Thread", "Pelotita_Sin_Thread\Pelotita_Sin_Thread.csproj", "{F0F5D389-2CD1-44E1-8ECF-E00EAA2DAEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pelotita_Con_Thread", "Pelotita_Con_Thread\Pelotita_Con_Thread.csproj", "{E7BE2EC6-04BE-4705-9F26-471FFCCC6B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0579753-4BF1-486D-867F-931238A056CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0579753-4BF1-486D-867F-931238A056CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0579753-4BF1-486D-867F-931238A056CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0579753-4BF1-486D-867F-931238A056CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F5D389-2CD1-44E1-8ECF-E00EAA2DAEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F5D389-2CD1-44E1-8ECF-E00EAA2DAEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F5D389-2CD1-44E1-8ECF-E00EAA2DAEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F5D389-2CD1-44E1-8ECF-E00EAA2DAEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BE2EC6-04BE-4705-9F26-471FFCCC6B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BE2EC6-04BE-4705-9F26-471FFCCC6B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BE2EC6-04BE-4705-9F26-471FFCCC6B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BE2EC6-04BE-4705-9F26-471FFCCC6B01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
